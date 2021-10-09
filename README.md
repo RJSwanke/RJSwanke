@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RJSwanke
 - 👀 I’m interested in anything that can keep my attention.
-- 🌱 I’m currently just graduated with a degree in Computer Science: Software Engineering.
+- 🌱 I graduated this year with a bachelors degree in Computer Science: Software Engineering.
 - 💞️ I’m looking to collaborate on all different types of projects to expand my portfolio.
 - 📫 How to reach me RJSwanke@gmail.com
 
